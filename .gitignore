@@ -1,0 +1,17 @@
+.vscode/
+W9S2_TLS_Client/*.pem
+W9S2_TLS_Client/*.key
+W9S2_TLS_Client/*.csr
+W9S2_TLS_Client/*.crt
+W9S2_TLS_Client_Copy/*.pem
+W9S2_TLS_Client_Copy/*.key
+W9S2_TLS_Client_Copy/*.csr
+W9S2_TLS_Client_Copy/*.crt
+W9S2_TLS_Server/*.pem
+W9S2_TLS_Server/*.key
+W9S2_TLS_Server/*.csr
+W9S2_TLS_Server/*.crt
+W9S2_TLS_Server_Copy/*.pem
+W9S2_TLS_Server_Copy/*.key
+W9S2_TLS_Server_Copy/*.csr
+W9S2_TLS_Server_Copy/*.crt
